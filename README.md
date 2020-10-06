@@ -1,3 +1,2 @@
-# Predictive_Regression_Analysis
-
-Using linear and polinomial regression to predict insurance cost 
+###  Medical Insurance Cost Prediction
+Using regression techniques of supervised learning to predict the medical insurance costs.
